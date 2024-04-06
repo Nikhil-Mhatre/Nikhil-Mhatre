@@ -5,13 +5,11 @@
 [![Twitter: Nikhil Mhatre](https://img.shields.io/twitter/follow/nikhil-mhatre?style=social)](https://twitter.com/nikkmhatre4757)
 
 I develop software, build technical communities, create content and love meeting new people!
-<p align="Ledt">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-mhatre&layout=compact&theme=calm"/>
-</p>
-
-<p align="Left">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhil-mhatre&hide=issues&count_private=true&show_icons=true&theme=calm"/>
 </p>
+
 <p align="Left">
   <img src="https://streak-stats.demolab.com/?user=nikhil-mhatre&theme=calm"/>
 </p>
