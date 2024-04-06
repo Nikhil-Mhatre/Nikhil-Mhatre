@@ -18,11 +18,14 @@
 
 
 <p align="center">
+ <img style="height:200px; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-mhatre&layout=compact&theme=calm"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=nikhil-mhatre&theme=calm"/>
 </p>
 
 <p align="center">
-  <img style="height:200px; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-mhatre&layout=compact&theme=calm"/>
   <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=nikhil-mhatre&hide=issues&count_private=true&show_icons=true&theme=calm"/>
 </p>
 
